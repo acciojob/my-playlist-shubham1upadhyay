@@ -5,5 +5,5 @@ ul{list-style:none;}
 a{text-decoration:none; color:black; font-family:monospace; font-weight:bolder}
 .player_two{background-color:white; width:350px;border-radius:5px;}
 video{ padding:10px;}
-h4{margin-top:0px; font-family:monospace; font-size:large;}
+h2{margin-top:0px; font-family:monospace; font-size:large;}
 audio{width:97%; padding:5px;}
